@@ -1,0 +1,21 @@
+make the folders and file structure as 
+
+models/---
+      /-AuthorisedBooking.js
+      /-Booking.js
+      /-CancelledBooking.js
+      /-Movie.js
+      /-User.js
+node_modules/----
+      run : 'npm install' in terminal of your editor.
+public/---
+      /-admin.html
+      /-booking.html
+      /-home.html
+      /-login.html
+      /-payment.html
+      /-profile.html
+      /-receipt.html
+      /-register.html
+csp.py
+server.js
